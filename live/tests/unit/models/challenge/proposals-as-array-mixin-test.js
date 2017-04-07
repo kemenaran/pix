@@ -3,7 +3,7 @@ import { expect } from 'chai';
 import { describe, it } from 'mocha';
 import ProposalsAsArrayMixin from 'pix-live/models/challenge/proposals-as-array-mixin';
 
-describe('Unit | Model | Challenge/Propsals As Array Mixin', function () {
+describe('Unit | Model | Challenge/Proposals As Array Mixin', function () {
 
   const testData = [
     { data: '', expected: [] },
